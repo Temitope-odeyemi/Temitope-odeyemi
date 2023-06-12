@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github page
+
+My name is Temitope Odeyemi. I am a skilled data analyst with experty in data manipulation, data collection, data cleaning and visualization. I can efficently use Microsoft Excel, Python and Power BI for data analysis.
+I posses the utmost confidence in my proficiency to effectively utilize these tools, enabling me to derive substantial and significant insights.
+I have worked on various projects using Phyton, Excel and Power BI and i am still actively learning to stay up to date with current trends and innovations.
+I am open to more learnings, internship, collaborations and of course jobs in this field. 
+Please feel free to connect with me on Twitter (https://twitter.com/TheTurneer), Linkden (https://www.linkedin.com/in/temitope-odeyemi-44b454170/) and also on Medium(https://medium.com/@odeyemitemi23) where i write about the insights i get from my projects and my experience as a data analyst.
 
 <!--
 **Temitope-odeyemi/Temitope-odeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
